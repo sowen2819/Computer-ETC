@@ -7,6 +7,6 @@
 - smtp            25/tcp      #Simple Mail Transfer Protocol  
 - http            80/tcp      #World Wide Web  
 - https           443/tcp     #HTTPS - SSL 위의 HTTP (암호화 전송)  
-- sftp            990/tcp		  #SSL 위의 FTP (암호화 전송)	공식  
-- sTelnet         992/tcp		  #SSL 위의 Telnet (암호화 전송)	공식  
+- sftp            990/tcp     #SSL 위의 FTP (암호화 전송)
+- sTelnet         992/tcp     #SSL 위의 Telnet (암호화 전송) 
 </pre>
