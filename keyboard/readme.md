@@ -4,11 +4,17 @@
 \!|[EXCLAMATION POINT](https://translate.google.com/?um=1&ie=UTF-8&hl=ko&client=tw-ob#en/ko/EXCLAMATION%20POINT)|엑스커메이션 포인트|
 \@|At Sigh|엣 사인|
 \#|CROSSHATCH|크로스해치|
-
-\$|\%|\^|\&|\*|\(|\)|\_|\+|
-	Dollar Sign|Percent Sign|Caret|	Ampersand|Asterisk| left Parenthesis |right Parenthesis|Underscore|Plus|
-크로스해치|달러 사인|퍼센트 사인|Caret|앤퍼센트|아스테리스크|레프트 퍼렌서시스|라이트 퍼렌서시스|언더스코어|플러스|
+\$|Dollar Sign|달러 사인|
+\%|Percent Sign|퍼센트 사인|
+\^|Caret|캐롯|
+\&|Ampersand|앤퍼센트|
+\*|Asterisk|아스테리스크|
+\(|left Parenthesis|레프트 퍼렌서시스|
+\)|right Parenthesis|라이트 퍼렌서시스|
+\_|Underscore|언더스코어|
+\+|Plus|플러스|
   
+    
 |\`|
 --------- |
 |\`|
