@@ -1,12 +1,8 @@
 
 |\~|Tilde|틸더|
---------- | --------- | --------- | 
 \!|[EXCLAMATION POINT](https://translate.google.com/?um=1&ie=UTF-8&hl=ko&client=tw-ob#en/ko/EXCLAMATION%20POINT)|엑스커메이션 포인트|
---------- | --------- | --------- | 
 \@|At Sigh|엣 사인|
---------- | --------- | --------- | 
 \#|CROSSHATCH|크로스해치|
---------- | --------- | --------- | 
 
 \$|\%|\^|\&|\*|\(|\)|\_|\+|
 	Dollar Sign|Percent Sign|Caret|	Ampersand|Asterisk| left Parenthesis |right Parenthesis|Underscore|Plus|
