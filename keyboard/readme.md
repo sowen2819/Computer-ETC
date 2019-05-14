@@ -1,8 +1,16 @@
 
-|\~|\!|\@|\#|\$|\%|\^|\&|\*|\(|\)|\_|\+|
---------- | --------- |--------- | --------- |--------- | --------- |--------- | --------- |--------- | --------- |--------- | --------- |--------- 
-|Tilde|[EXCLAMATION POINT](https://translate.google.com/?um=1&ie=UTF-8&hl=ko&client=tw-ob#en/ko/EXCLAMATION%20POINT)|At Sigh|CROSSHATCH|	Dollar Sign|Percent Sign|Caret|	Ampersand|Asterisk| left Parenthesis |right Parenthesis|Underscore|Plus|
-|틸더|엑스커메이션 포인트|엣 사인|크로스해치|달러 사인|퍼센트 사인|Caret|앤퍼센트|아스테리스크|레프트 퍼렌서시스|라이트 퍼렌서시스|언더스코어|플러스|
+|\~|Tilde|틸더|
+--------- | --------- | --------- | 
+\!|[EXCLAMATION POINT](https://translate.google.com/?um=1&ie=UTF-8&hl=ko&client=tw-ob#en/ko/EXCLAMATION%20POINT)|엑스커메이션 포인트|
+--------- | --------- | --------- | 
+\@|At Sigh|엣 사인|
+--------- | --------- | --------- | 
+\#|CROSSHATCH|크로스해치|
+--------- | --------- | --------- | 
+
+\$|\%|\^|\&|\*|\(|\)|\_|\+|
+	Dollar Sign|Percent Sign|Caret|	Ampersand|Asterisk| left Parenthesis |right Parenthesis|Underscore|Plus|
+크로스해치|달러 사인|퍼센트 사인|Caret|앤퍼센트|아스테리스크|레프트 퍼렌서시스|라이트 퍼렌서시스|언더스코어|플러스|
   
 |\`|
 --------- |
