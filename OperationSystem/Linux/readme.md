@@ -32,7 +32,19 @@
   $ ln  
       - 심볼릭 링크	$ ln -s  원본 파일에 대한 연결  
       - 하드 링크	$ ln	inode와 이름 사이의 연결 정보가 하드 링크  
-  $ touch  
+  $ touch  파일 생성 및 
+    $ touch -a  
+    $ touch -c  
+    $ touch -m  
+    $ touch -r  
+    $ touch -t [CCYY]MMDDhhmm[.ss]  
+      - CC	연도 첫 번째 두자리  
+      - YY	연도 마지막 두 자리  
+      - MM	달 (01~12)  
+      - DD	날짜 (01~31)  
+      - hh	시각(00~23)    
+      - mm	분(00~59)  
+      - .ss	초(00~59)  
   $ passwd 사용자 비밀번호 변경  
    
 # 파일시스템(4_6) ( 이름, inode, 데이터 블록 )
