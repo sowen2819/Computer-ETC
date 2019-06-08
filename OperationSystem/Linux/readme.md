@@ -5,7 +5,8 @@
   $ logout, exit 로그아웃  
   $ pwd 현재 경로 확인  
   $ cd ~ , $ cd -    
-  $ ls -al  
+  $ ls -al  최종 수정 시간
+    - $ ls -u  접근 
   $ mkdir -p 디렉토리가 존재하지 않을 때 중간 디렉토리 자동 생성  
   $ rmdir  
   
@@ -32,7 +33,7 @@
   $ ln  
       - 심볼릭 링크	$ ln -s  원본 파일에 대한 연결  
       - 하드 링크	$ ln	inode와 이름 사이의 연결 정보가 하드 링크  
-  $ touch  파일 생성 및 
+  $ touch  파일 생성 및 접근 시간 수정 시간 변경
     $ touch -a  
     $ touch -c  
     $ touch -m  
