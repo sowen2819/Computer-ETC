@@ -49,6 +49,7 @@
   $ passwd 사용자 비밀번호 변경  
   
   $ export 환경변수명 = 값
+  $ sudo apt-get update
   $ sudo apt-get install openjdk-8-jdk
 </pre>
 
