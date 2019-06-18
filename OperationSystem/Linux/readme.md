@@ -51,6 +51,7 @@
   $ export 환경변수명 = 값
   $ sudo apt-get update
   $ sudo apt-get install openjdk-8-jdk
+  $ sudo apt install git
 </pre>
 
 # 파일시스템(4_6) ( 이름, inode, 데이터 블록 )
