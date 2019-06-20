@@ -52,6 +52,10 @@
   $ sudo apt-get update
   $ sudo apt-get install openjdk-8-jdk
   $ sudo apt install git
+  $ ls -al > test.txt test.txt파일에 ls -al의 내용 쓰기 기존내용 삭제
+  $ ls -al >> test.txt test.txt파일에 ls -al의 내용 쓰기 기존내용 뒤에 작성
+  $ ls -/al 2> test.err test.err파일에 에러코드 작성
+  
 </pre>
 
 # 파일시스템(4_6) ( 이름, inode, 데이터 블록 )
