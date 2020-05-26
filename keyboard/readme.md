@@ -15,7 +15,8 @@
 |\)|right Parenthesis|라이트 퍼렌서시스|
 |\_|Underscore|언더스코어|
 |\+|Plus|플러스|  
-|\`|Quotation Mark|쿼테이션 마크|
+|\`|Quotation Mark|쿼테이션 마크|backtick|
+|\`|Backtick/Backquote|억음 부호|
 --------- |--------- |--------- |
 |\{|LEFT BRACES|레프트 브레이스|
 |\}|RIGHT BRACES|라이트 브레이스|
